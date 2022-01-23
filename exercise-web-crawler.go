@@ -1,3 +1,5 @@
+// Good god maybe they should tell you about the whole WaitGroup thing
+
 package main
 
 import (
